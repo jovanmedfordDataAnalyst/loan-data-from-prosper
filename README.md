@@ -26,3 +26,8 @@ Effective Yield and the Estimated Loss Rate. Applicable for loans originated aft
 LoanStatus - The current status of the loan: Cancelled, Chargedoff, Completed, Current, Defaulted, FinalPaymentInProgress, PastDue. The
 PastDue status will be accompanied by a delinquency bucket.
 StatedMonthlyIncome - The monthly income the borrower stated at the time the listing was created.
+
+
+## Summary of Findings
+
+It was found that about 71% of the reported stated monthly income per listing was between $2500 and $8000, which is largely considered to be medium income wages. This provides some context to the distribution of credit ratings has a bell shape around the C grade as shown in the slides.
