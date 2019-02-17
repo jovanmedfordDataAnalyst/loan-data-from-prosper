@@ -1,6 +1,6 @@
 # loan-data-from-prosper
 
-## The data set contains information concerning 113912 loan listings, 
+The data set contains information concerning 113912 loan listings, 
 including loan amount, borrower rate (or interest rate), current loan status, 
 borrower income, and many others. For the purpose of this analysis
 we focused on the following:
