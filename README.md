@@ -30,4 +30,11 @@ StatedMonthlyIncome - The monthly income the borrower stated at the time the lis
 
 ## Summary of Findings
 
-It was found that about 71% of the reported stated monthly income per listing was between $2500 and $8000, which is largely considered to be medium income wages. This provides some context to the distribution of credit ratings has a bell shape around the C grade as shown in the slides.
+Prosper provides a keen platform for middleclass investors to lend and borrow money. Indeed, it shows extremely low historical rates 
+of default over 1 year loans at decent estimated returns which maximize at about 10%. Further, we see that cross all categories of loans, there is above a 56% historical completion rate. Finally, we see that for borrowing rates of above 20% APR, there is significantly great risk of loss as opposed to any lower rates.
+
+## Key Insights for Presentation
+
+For the presentation, I aimed to produce a story that would explain why it might be reasonable to invest in p2p lending with prosper
+by showing some insight into the relationships between return and risk and the general investment landscape that Prosper loan listings 
+provide.
